@@ -1,0 +1,12 @@
+label{
+    padding-right: 100px;
+}
+button{
+    width: 170px;
+    background-color:slateblue;
+    color: aliceblue;
+}
+center{
+    border:solid 20px;
+    border-color:rgb(84, 28, 189) ;
+}
